@@ -1,4 +1,4 @@
-# Packages folder == These are notes to help me rememeber.
+# Packages folder -- These are notes to help me rememeber.
 - global package.json adjustments to specify folder == workspaces - packages.
 - Moved types and utils from the course files folders.
 - Created a tsconfig.settings.json for the monorepos.
