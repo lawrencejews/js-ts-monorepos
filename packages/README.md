@@ -5,4 +5,6 @@
 - folder Types, Utils only have output dir. 
 - tsconfig.json in packages help manage.
 - Set up jest with babel from root packages folder to types and utils.
-- Remember rimraf should be installed at the root folder. YARN ADD -WD rimraf
+- Remember rimraf should be installed at the root folder. YARN ADD -WD rimraf.
+## lerna 
+- Helps run multiple commands with one line in the cli when working with monorepos.
